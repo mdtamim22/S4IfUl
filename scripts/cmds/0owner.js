@@ -18,13 +18,13 @@ config: {
     const ownerInfo = {
       name: 'SaIful Islam',
       gender: 'Male',
-      age: '12+',
+      age: '20+',
       height: '6.00',
       facebookLink: 'https://www.facebook.com/saiful45111 ',
       nick: 'mim'
     };
 
-    const bold = 'https://imgur.com/a/QIluIWH'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/AL5kAyP.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
